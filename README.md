@@ -24,3 +24,13 @@ In total, the manufacturing data meets the maximum variance in PSI requirement, 
 - Lot Summary
 
 <img width="463" alt="Lot_Summary" src="https://user-images.githubusercontent.com/104597335/184864201-9b3ef0c3-6014-4c6e-8c19-7aaab49b44d0.png">
+
+
+## T-Tests on Suspension Coils
+
+From our first t-test, we can see the sample mean is not statistically different from the population mean of 1500 PSI with a p-value of 0.06.
+
+However, when we perform t-tests on the individual lots, we can see that although lots 1 and 2 are not statistically different from the population mean with p-values of 1 and 0.6 respectively, lot 3 does have a mean which is statistically different from the population mean with a p-value of 0.04.
+
+
+<img width="650" alt="Del3_output" src="https://user-images.githubusercontent.com/104597335/184864811-3a1cb5b0-816e-4068-9ae8-d36c4a2ac129.png">
