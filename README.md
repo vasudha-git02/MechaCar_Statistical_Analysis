@@ -6,4 +6,4 @@ The slope of the linear model is not zero. We can see that the slope coefficient
 
 Our r^2 value is 0.7149, which means the model does have good predictive power for the mpg.
 
-<img width="495" alt="Del1_Output" src="https://user-images.githubusercontent.com/104597335/184862665-8dbb5d3d-4f84-48a1-ba77-27ea935874b0.png">
+<img width="680" alt="Del1_Output" src="https://user-images.githubusercontent.com/104597335/184862665-8dbb5d3d-4f84-48a1-ba77-27ea935874b0.png">
